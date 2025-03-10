@@ -1,0 +1,1 @@
+{"models": [{"model_name": "resnet50", "source": "torchvision", "model_parameters": null}, {"model_name": "mocov2-rn50", "source": "ssl", "model_parameters": null}]}
