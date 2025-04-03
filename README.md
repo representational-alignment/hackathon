@@ -130,10 +130,5 @@ The activation extraction process relies on [`thingsvision`](https://github.com/
     ```
 3. [Create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/- **File Name**: `team_name.json`
 - **Content**: The JSON file should include:
-  - A list of model names (or IDs) that are functionally identical
-  - A description of the stimuli used to test the models
-  - A brief explanation of the methodology used to identify the models as functionally identical
-  - Any relevant metadata about the models (e.g., architecture, training data)proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) with the title "Red Team: [team_name]"
-
-All submissions will be reviewed by the organizers. Good luck!
+  TBD
 
