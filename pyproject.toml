@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "model_alignment"
+version = "0.1.0"
+description = "Calculate alignment metrics between neural network models using RSA, CKA, and Procrustes correlation."
+readme = "README.md"
+authors = [
+    { name = "Your Name", email = "your.email@example.com" }
+]
+license = { file = "LICENSE" }
+dependencies = [
+    "numpy<2",
+    "Pillow",
+    "seaborn",
+    "matplotlib",
+    "pandas",
+    "scikit-learn",
+    "scipy",
+    "torch",
+    "torchvision",
+    "thingsvision",
+    "tqdm"
+]
+requires-python = ">=3.6"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
