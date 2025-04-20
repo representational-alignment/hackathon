@@ -1,0 +1,84 @@
+{
+    "differentiating_images": [
+        {
+            "dataset_name": "cifar100",
+            "image_identifier": "test/girl/image_987.png"
+        },
+        {
+            "dataset_name": "cifar100",
+            "image_identifier": "test/orange/image_19.png"
+        },
+        {
+            "dataset_name": "cifar100",
+            "image_identifier": "test/bottle/image_2428.png"
+        },
+        {
+            "dataset_name": "cifar100",
+            "image_identifier": "test/house/image_528.png"
+        },
+        {
+            "dataset_name": "cifar100",
+            "image_identifier": "test/bed/image_2607.png"
+        },
+        {
+            "dataset_name": "cifar100",
+            "image_identifier": "test/mushroom/image_7060.png"
+        },
+        {
+            "dataset_name": "cifar100",
+            "image_identifier": "test/rabbit/image_7230.png"
+        },
+        {
+            "dataset_name": "cifar100",
+            "image_identifier": "test/lion/image_8545.png"
+        },
+        {
+            "dataset_name": "cifar100",
+            "image_identifier": "test/bowl/image_8335.png"
+        },
+        {
+            "dataset_name": "cifar100",
+            "image_identifier": "test/fox/image_5945.png"
+        },
+        {
+            "dataset_name": "cifar100",
+            "image_identifier": "test/tulip/image_9228.png"
+        },
+        {
+            "dataset_name": "cifar100",
+            "image_identifier": "test/mushroom/image_5838.png"
+        },
+        {
+            "dataset_name": "cifar100",
+            "image_identifier": "test/fox/image_8185.png"
+        },
+        {
+            "dataset_name": "cifar100",
+            "image_identifier": "test/streetcar/image_778.png"
+        },
+        {
+            "dataset_name": "cifar100",
+            "image_identifier": "test/possum/image_781.png"
+        },
+        {
+            "dataset_name": "cifar100",
+            "image_identifier": "test/skunk/image_3674.png"
+        },
+        {
+            "dataset_name": "cifar100",
+            "image_identifier": "test/cloud/image_4777.png"
+        },
+        {
+            "dataset_name": "cifar100",
+            "image_identifier": "test/lion/image_4352.png"
+        },
+        {
+            "dataset_name": "cifar100",
+            "image_identifier": "test/clock/image_823.png"
+        },
+        {
+            "dataset_name": "cifar100",
+            "image_identifier": "test/lamp/image_5259.png"
+        }
+    ]
+}
