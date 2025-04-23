@@ -11,16 +11,15 @@ Key points:
 
 ## Team Objectives
 
-- **Blue Team**: Identify universal patterns across models by finding sets that function identically on selected stimuli.
-- **Red Team**: Uncover meaningful functional differences between models by carefully selecting diagnostic stimuli.
+### 🟦 Blue Team:
+Identify universal patterns across models by finding sets that function identically on selected stimuli.
 
-## Hackathon Goal
-
-### Blue Team
 - **Objective**: Submit a collection of models that demonstrate functional equivalence when processing the same stimulus set.
 - **Challenge**: Find surprising similarities among seemingly different architectures.
 
-### Red Team
+### 🟥 Red Team:
+Uncover meaningful functional differences between models by carefully selecting diagnostic stimuli.
+
 - **Objective**: Curate stimuli that reveal significant functional differences between model groups.
 - **Challenge**: Identify the most informative test cases that highlight meaningful variation.
 
