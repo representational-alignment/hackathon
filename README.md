@@ -43,24 +43,25 @@ We look forward to discovering insights about representational alignment - wheth
 
 ### Blue Team JSON format
 
-  ```json
-  {
-    "models": [
-      {
-        "model_name": "model1_name",
-        "source": "where the model is from",
-        "model_parameters": {
-          "param1": "value1",
-          "param2": "value2"
-        }
-      },
-      {
-        "model_name": "model2_name",
-        "source": "where the model is from",
-        "model_parameters": null
+```json
+{
+  "models": [
+    {
+      "model_name": "model1_name",
+      "source": "where the model is from",
+      "model_parameters": {
+        "param1": "value1",
+        "param2": "value2"
       }
-    ]
-  }
+    },
+    {
+      "model_name": "model2_name",
+      "source": "where the model is from",
+      "model_parameters": null
+    }
+  ]
+}
+```
 
 ### Red Team JSON format
 
