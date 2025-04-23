@@ -99,10 +99,7 @@ Notes:
 ### Setup & Submission (Applies to **Both Blue and Red Teams**)
 
 #### 1&nbsp;—&nbsp;Fork and Clone
-1. **Fork** this repository on GitHub:  
-   <a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo">
-   <div style="text-align:center"><img src="https://docs.github.com/assets/images/help/repository/fork_button.png" alt="fork button" width="500"/></div>
-   </a>
+1. **Fork** this repository on GitHub:
 
 2. **Clone** your fork and create a branch for your submission (replace `<team_color>` with either `blue` or `red`):
    ```bash
@@ -112,10 +109,10 @@ Notes:
    ```
 
 #### 2 — Prepare Your Submission
-| Team | File type | Place the file(s) in | Required main file | Commit message title example |
-|------|-----------|----------------------|--------------------|------------------------------|
-| **Blue** | **JSON** | `blue_team_submissions/` | `team_name.json` | `Blue Team Submission: [team_name]` |
-| **Red** | **ZIP**  | `red_team_submissions/`  | `team_name.zip`  | `Red Team Submission: [team_name]` |
+| Team | Place the file(s) in | Required main file | Commit message title example |
+|------|----------------------|--------------------|------------------------------|
+| **Blue** | `blue_team_submissions/` | `team_name.json` | `Blue Team Submission: [team_name]` |
+| **Red** | `red_team_submissions/` | `team_name.json` | `Red Team Submission: [team_name]` |
 
 *Create your file(s) according to the validation rules in the earlier “Blue Team JSON format” and “Red Team ZIP format” sections.*
 
@@ -123,7 +120,7 @@ Notes:
 ```bash
 git add [your files]
 git commit -m "<Blue or Red> Team Submission: [team_name]"
-git push --set-upstream origin <team_color>_team_winning_submission
+git push --set-upstream origin {blue/red}_team_submissions
 ```
 
 #### 4 — Open a Pull Request
