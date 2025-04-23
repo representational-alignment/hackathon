@@ -1,7 +1,5 @@
-# realign-metrics
+# Re-Align Workshop Hackathon
 
-
-Re-Align Workshop Hackathon
 This hackathon focuses on understanding and comparing representational alignment across a wide variety of vision models. Participants will join either the Blue Team or the Red Team and provide JSON submissions that demonstrate the largest uniform set of models (Blue) or greatest differentiation among those models (Red).
 
 Hackathon Overview
@@ -39,13 +37,12 @@ We look forward to discovering insights about representational alignment - wheth
 
 ## Submission Instructions
 
-### Blue Team Submissions
-
-#### Submission Format
 - **File Type**: JSON
 - **File Name**: `team_name.json` (replace "team_name" with your actual team name)
-- **File Location**: Place your submission in the `blue_team_submissions/` directory
-- **JSON Structure**: Your submission must follow this format:
+- **File Location**: Place your submission in the `{blue/red}_team_submissions/` directory
+
+### Blue Team JSON format
+
   ```json
   {
     "models": [
@@ -64,71 +61,75 @@ We look forward to discovering insights about representational alignment - wheth
       }
     ]
   }
-#### ✅ Validation Requirements
 
-To ensure compatibility with the activation extraction pipeline, your submission must meet the following requirements:
+### Red Team JSON format
 
-- Each model must have a **unique** `model_name` within your submission.
-- Each model entry must include the following fields:
-  - `model_name`
-  - `source`
-  - `model_parameters`
-- The `model_parameters` field can be set to `null` if no parameters are specified.
-- The file must be in **valid JSON** format.
+```json
+{
+  "differentiating_images": [
+    {
+      "dataset_name": "cifar100",
+      "image_identifier": "test/girl/image_987.png"
+    },
+    {
+      "dataset_name": "cifar100",
+      "image_identifier": "test/orange/image_19.png"
+    },
+    {
+      "dataset_name": "cifar100",
+      "image_identifier": "test/bottle/image_2428.png"
+    }
+    // … add as many entries as needed
+  ]
+}
+```
 
-These parameters (`model_name`, `source`, and `model_parameters`) are used to extract activations from your model via:
+**Field descriptions**
 
-- [`extract_activations.ipynb`](./extract_activations.ipynb)
-- Starter notebooks located in:
-  - [`red_team_submissions/`](./red_team_submissions/)
-  - [`blue_team_submissions/`](./blue_team_submissions/)
+| Key | Purpose | Example |
+|-----|---------|---------|
+| `dataset_name` | Name of the public dataset the stimulus comes from. | `"cifar100"` |
+| `image_identifier` | Path or unique identifier that locates the file within your submission’s `stimuli/` directory. | `"test/girl/image_987.png"` |
 
-The activation extraction process relies on [`thingsvision`](https://github.com/MECLabTUDA/ThingsVision), which supports a variety of pre-trained models listed [here](https://thingsvision.github.io/AvailableModels.html).
+Notes:
+- Include **exactly** these two keys for every stimulus object.  
+- Place the actual image / audio / video files in the `stimuli/` folder of your ZIP submission—do **not** embed binary data in the JSON.  
+- Ensure every `(dataset_name, image_identifier)` pair is **unique**.
 
+### Setup & Submission (Applies to **Both Blue and Red Teams**)
 
-#### Setup
-1. First, [fork the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) in GitHub:
-    <a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo">
-    <div style="text-align:center"><img src="https://docs.github.com/assets/images/help/repository/fork_button.png" alt="fork button" width="500"/></div>
-    </a>
+#### 1&nbsp;—&nbsp;Fork and Clone
+1. **Fork** this repository on GitHub:  
+   <a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo">
+   <div style="text-align:center"><img src="https://docs.github.com/assets/images/help/repository/fork_button.png" alt="fork button" width="500"/></div>
+   </a>
 
-2. Clone your fork and create a branch for your submission:
-    ```bash
-    git clone [PATH_TO_YOUR_FORK]
-    cd realign-metrics
-    git checkout -b blue_team_winning_submission
-    ```
+2. **Clone** your fork and create a branch for your submission (replace `<team_color>` with either `blue` or `red`):
+   ```bash
+   git clone [PATH_TO_YOUR_FORK]
+   cd realign-metrics
+   git checkout -b <team_color>_team_winning_submission
+   ```
 
-#### Submitting
-1. Prepare your JSON submission according to the requirements.
-2. Add and commit your files:
-    ```bash
-    git add [your files]
-    git commit -m "Blue Team Submission: [team_name]"
-    git push --set-upstream origin blue_team_winning_submission
-    ```
-3. [Create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) with the title "Blue Team: [team_name]"
+#### 2 — Prepare Your Submission
+| Team | File type | Place the file(s) in | Required main file | Commit message title example |
+|------|-----------|----------------------|--------------------|------------------------------|
+| **Blue** | **JSON** | `blue_team_submissions/` | `team_name.json` | `Blue Team Submission: [team_name]` |
+| **Red** | **ZIP**  | `red_team_submissions/`  | `team_name.zip`  | `Red Team Submission: [team_name]` |
 
-### Red Team Submissions
+*Create your file(s) according to the validation rules in the earlier “Blue Team JSON format” and “Red Team ZIP format” sections.*
 
-#### Setup
-1. First, [fork the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) in GitHub.
-2. Clone your fork and create a branch for your submission:
-    ```bash
-    git clone [PATH_TO_YOUR_FORK]
-    cd realign-metrics
-    git checkout -b red_team_winning_submission
-    ```
+#### 3 — Commit & Push
+```bash
+git add [your files]
+git commit -m "<Blue or Red> Team Submission: [team_name]"
+git push --set-upstream origin <team_color>_team_winning_submission
+```
 
-#### Submitting
-1. Prepare your zip file containing your stimuli and supporting documentation.
-2. Add and commit your files:
-    ```bash
-    git add [your files]
-    git commit -m "Red Team Submission: [team_name]"
-    git push --set-upstream origin red_team_winning_submission
-    ```
-3. [Create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/- **File Name**: `team_name.json`
-- **Content**: The JSON file should include:
-  TBD
-
+#### 4 — Open a Pull Request
+1. Go to your fork on GitHub.
+2. Click **“Compare & pull request.”**
+3. Use the title:  
+   - `Blue Team: [team_name]` **or**  
+   - `Red Team: [team_name]`
+4. Submit — you’re done! 🎉
