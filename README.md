@@ -113,8 +113,6 @@ Notes:
 | **Blue** | `blue_team_submissions/` | `team_name.json` | `Blue Team Submission: [team_name]` |
 | **Red** | `red_team_submissions/` | `team_name.json` | `Red Team Submission: [team_name]` |
 
-*Create your file(s) according to the validation rules in the earlier “Blue Team JSON format” and “Red Team ZIP format” sections.*
-
 #### 3 — Commit & Push
 ```bash
 git add [your files]
