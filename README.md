@@ -24,7 +24,7 @@ Uncover meaningful functional differences between models by carefully selecting 
 - **Challenge**: Identify the most informative test cases that highlight meaningful variation.
 
 ## Submission Requirements
-Your final submission must be in JSON format for the Blue Team and a zip file for the Red team. The submission should document:
+Your final submission must be in JSON format. The submission should document:
 1. Your methodology for identifying similar models (Blue) or selecting revealing stimuli (Red)
 2. A concise rationale explaining your findings
 3. Supporting evidence for your conclusions
@@ -93,7 +93,6 @@ We look forward to discovering insights about representational alignment - wheth
 
 Notes:
 - Include **exactly** these two keys for every stimulus object.  
-- Place the actual image / audio / video files in the `stimuli/` folder of your ZIP submission—do **not** embed binary data in the JSON.  
 - Ensure every `(dataset_name, image_identifier)` pair is **unique**.
 
 ### Setup & Submission (Applies to **Both Blue and Red Teams**)
