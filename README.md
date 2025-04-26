@@ -158,3 +158,17 @@ pip install -e .
 ```
 
 This will install all the necessary dependencies for you to run the code in this repository.
+
+
+## Example Notebooks and Starter Code
+
+We've provided starter notebooks to help you get started with the hackathon. These can be found in the `examples/` folder:
+
+### Common Resources
+- **`extract_activations.ipynb`**: Demonstrates how to extract model activations, which is useful for both Blue and Red teams.
+
+### Team-Specific Starter Code
+- **Blue Team**: `blue_team_starter.ipynb` - Guides you through the process of identifying model similarities across different models.
+- **Red Team**: `red_team_starter.ipynb` - Helps you discover and analyze stimuli that reveal meaningful differences between model representations.
+
+These notebooks contain code examples, visualization tools, and methodological suggestions to kickstart your approach to the challenge.
