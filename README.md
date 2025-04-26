@@ -127,3 +127,34 @@ git push --set-upstream origin {blue/red}_team_submissions
    - `Blue Team: [team_name]` **or**  
    - `Red Team: [team_name]`
 4. Submit — you’re done! 🎉
+
+
+## Getting Started
+
+### Setting Up a Conda Environment
+
+You can set up a conda environment for this project using either the `pyproject.toml` file or the `requirements.txt` file.
+
+#### Using requirements.txt
+
+```bash
+# Create a new conda environment
+conda create -n realign-metrics python=3.9
+conda activate realign-metrics
+
+# Install requirements
+pip install -r requirements.txt
+```
+
+#### Using pyproject.toml
+
+```bash
+# Create a new conda environment
+conda create -n realign-metrics python=3.9
+conda activate realign-metrics
+
+# Install project in development mode
+pip install -e .
+```
+
+This will install all the necessary dependencies for you to run the code in this repository.
