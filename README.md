@@ -99,8 +99,8 @@ Notes:
 
 #### 1&nbsp;—&nbsp;Fork and Clone
 1. **Fork** this repository on GitHub:
-  - Click the **Fork** button at the top of this page
-  - **Important:** Uncheck "Copy the main branch only" to include all branches
+    - Click the **Fork** button at the top of this page
+    - **Important:** Uncheck "Copy the main branch only" to include all branches
 
 2. **Clone** your fork and create a branch for your submission (replace `<team_color>` with either `blue` or `red`):
    ```bash
