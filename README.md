@@ -104,6 +104,9 @@ Notes:
    ```bash
    git clone [PATH_TO_YOUR_FORK]
    cd realign-metrics
+   git checkout main  
+   git pull origin main  
+   git checkout -b <team_color>_team_submissions
    git checkout -b <team_color>_team_winning_submission
    ```
 
@@ -122,11 +125,12 @@ git push --set-upstream origin {blue/red}_team_submissions
 
 #### 4 — Open a Pull Request
 1. Go to your fork on GitHub.
-2. Click **“Compare & pull request.”**
-3. Use the title:  
+2. Click **"Compare & pull request."**
+3. Select the base branch to merge into: `<team_color>_team_submissions`
+4. Use the title:  
    - `Blue Team: [team_name]` **or**  
    - `Red Team: [team_name]`
-4. Submit — you’re done! 🎉
+5. Submit — you’re done! 🎉
 
 
 ## Getting Started
