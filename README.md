@@ -177,4 +177,4 @@ We've provided starter notebooks to help you get started with the hackathon. The
 - **Blue Team**: `blue_team_starter.ipynb` - Guides you through the process of identifying model similarities across different models.
 - **Red Team**: `red_team_starter.ipynb` - Helps you discover and analyze stimuli that reveal meaningful differences between model representations.
 
-These notebooks contain code examples, visualization tools, and methodological suggestions to kickstart your approach to the challenge.
+These notebooks contain code examples, visualization tools, and methodological suggestions to kickstart your approach to the challenge!
