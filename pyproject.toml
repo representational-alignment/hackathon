@@ -1,35 +1,23 @@
-[build-system]
-requires = ["setuptools>=42", "wheel"]
-build-backend = "setuptools.build_meta"
-
 [project]
-name = "model_alignment"
+name = "hackathon"
 version = "0.1.0"
-description = "Calculate alignment metrics between neural network models using RSA, CKA, and Procrustes correlation."
+description = "Calculate representational alignment metrics between neural network models."
 readme = "README.md"
-authors = [
-    { name = "Your Name", email = "your.email@example.com" }
-]
 license = { file = "LICENSE" }
+requires-python = ">=3.12"
 dependencies = [
-    "numpy<2",
-    "Pillow",
-    "seaborn",
-    "matplotlib",
-    "pandas",
-    "scikit-learn",
-    "scipy",
-    "torch",
-    "torchvision",
+    "matplotlib>=3.10.3",
+    "numpy>=1.26.4",
+    "pandas>=2.3.0",
+    "pillow>=11.2.1",
+    "scikit-learn>=1.7.0",
+    "scipy>=1.16.0",
+    "seaborn>=0.13.2",
     "thingsvision",
-    "tqdm"
-]
-requires-python = ">=3.6"
-classifiers = [
-    "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
-    "Operating System :: OS Independent"
+    "torch>=2.7.1",
+    "torchvision>=0.22.1",
+    "tqdm>=4.67.1",
 ]
 
-[tool.setuptools.packages.find]
-where = ["."]
+[tool.uv.sources]
+thingsvision = { git = "https://github.com/representational-alignment/thingsvision" }

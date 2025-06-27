@@ -3,9 +3,11 @@ Pillow
 seaborn
 matplotlib
 pandas
+tqdm
+
 scikit-learn
 scipy
+
 torch
 torchvision
-thingsvision
-tqdm
+thingsvision @ git+https://github.com/representational-alignment/thingsvision
