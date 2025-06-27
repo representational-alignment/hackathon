@@ -137,26 +137,59 @@ git push --set-upstream origin {blue/red}_team_submissions
 
 ## Getting Started
 
-### Setting Up a Conda Environment
+### Clone the repo
 
-You can set up a conda environment for this project using either the `pyproject.toml` file or the `requirements.txt` file.
+```
+git clone git@github.com:representational-alignment/hackathon.git
+cd hackathon/
+```
 
-#### Using requirements.txt
+### Setting a code environment
+
+#### Option: Using `uv` (**Recommended**)
+
+You can set up an environment for this project using `uv`.
+
+First, if you haven't already done so, install `uv`:
+
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+Then, update dependencies:
+
+```bash
+uv sync
+```
+
+You can then run the examples notebooks with
+
+```bash
+uv run --with jupyter jupyter lab
+```
+
+For help with `uv`, please see [its docs](https://docs.astral.sh/uv/).
+
+#### Option: Using Conda
+
+You can set up a [Conda](https://anaconda.org/anaconda/conda) environment for this project using either the `pyproject.toml` file or the `requirements.txt` file.
+
+##### Using requirements.txt
 
 ```bash
 # Create a new conda environment
-conda create -n realign-metrics python=3.9
+conda create -n realign-metrics python>=3.12
 conda activate realign-metrics
 
 # Install requirements
 pip install -r requirements.txt
 ```
 
-#### Using pyproject.toml
+##### Using pyproject.toml
 
 ```bash
 # Create a new conda environment
-conda create -n realign-metrics python=3.9
+conda create -n realign-metrics python>=3.12
 conda activate realign-metrics
 
 # Install project in development mode
