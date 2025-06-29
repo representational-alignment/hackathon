@@ -10,6 +10,7 @@ scipy
 
 # TensorFlow on CPU only, with MacOS-specific version.
 tensorflow>=2.16 ; sys_platform != 'darwin' or platform_machine == 'x86_64'
+tensorflow>=2.16,<2.19 ; sys_platform == 'darwin' and platform_machine == 'x86_64'
 tensorflow-macos>=2.16 ; sys_platform == 'darwin' and platform_machine == 'arm64'
 
 # Latest PyTorch everywhere except on Intel Mac.

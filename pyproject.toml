@@ -14,6 +14,7 @@ dependencies = [
     "scipy>=1.16.0",
     "seaborn>=0.13.2",
     "tensorflow>=2.16 ; sys_platform != 'darwin' or platform_machine == 'x86_64'",
+    "tensorflow>=2.16,<2.19 ; sys_platform == 'darwin' and platform_machine == 'x86_64'",
     "tensorflow-macos>=2.16 ; sys_platform == 'darwin' and platform_machine == 'arm64'",
     "thingsvision",
     "torch>=2.7 ; sys_platform != 'darwin' or platform_machine == 'arm64'",
