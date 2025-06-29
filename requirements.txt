@@ -8,6 +8,7 @@ tqdm
 scikit-learn
 scipy
 
-torch
+torch>=2.0.0,<=2.2.0 ; sys_platform == 'darwin' and platform_machine == 'x86_64'
+torch>=2.7.0 ; sys_platform != 'darwin' or platform_machine != 'x86_64'
 torchvision
 thingsvision @ git+https://github.com/representational-alignment/thingsvision
