@@ -1,5 +1,7 @@
 uv.lock
 node_modules/*
+**/.ipynb_checkpoints/*
+
 data/*
 activations/*
 cache/*
