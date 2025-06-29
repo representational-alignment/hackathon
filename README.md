@@ -148,9 +148,9 @@ cd hackathon/
 
 #### Option: Using `uv` (**Recommended**)
 
-You can set up an environment for this project using `uv`.
+You can set up an environment for this project using [`uv`](https://docs.astral.sh/uv/).
 
-First, if you haven't already done so, install `uv`:
+First, if you haven't already done so, download and install `uv`:
 
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
@@ -168,7 +168,11 @@ You can then run the examples notebooks with
 uv run --with jupyter jupyter lab
 ```
 
-For help with `uv`, please see [its docs](https://docs.astral.sh/uv/).
+If you'd like to run `python` commands, make sure to source the environment:
+
+```bash
+source .venv/bin/activate
+```
 
 #### Option: Using Conda
 
