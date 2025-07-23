@@ -1,217 +1,232 @@
-# Re-Align Workshop Hackathon
+<div align="center">
+    <h1>
+        <a href="https://representational-alignment.github.io/hackathon">The Re-Align Hackathon</a>
+    </h1>
+    <h4>
+        <a href="#-challenge-overview">Challenge Overview</a>
+        •
+        <a href="#-getting-started">Getting Started</a>
+        •
+        <a href="#-submission-process">Submission Process</a>
+    </h4>
+    <h3>
+        <a href="https://representational-alignment.github.io/hackathon">
+            <img src="https://img.shields.io/website?url=https%3A%2F%2Frepresentational-alignment.github.io%2Fhackathon">
+        </a>
+        <a href="https://github.com/orgs/representational-alignment/teams/hackathon">
+            <img src="https://img.shields.io/badge/maintainers-ReAlign%20hackathon%20team-yellow">
+        </a>
+        <a href="https://representational-alignment.github.io/hackathon">
+            <img src="https://img.shields.io/badge/launched-August%202025-teal">
+        </a>
+        <a href="https://github.com/representational-alignment/hackathon/commits/main">
+            <img src="https://img.shields.io/github/last-commit/representational-alignment/hackathon?color=blue&label=updated">
+        </a>
+        <a href="https://github.com/representational-alignment/hackathon/releases/latest">
+            <img src="https://img.shields.io/github/v/release/representational-alignment/hackathon?color=blueviolet&label=version">
+        </a>
+        <a href="#copyright">
+            <img src="https://img.shields.io/badge/licence-%C2%A9-crimson">
+        </a>
+    </h3>
+</div>
 
-This hackathon focuses on understanding and comparing representational alignment across a wide variety of vision models. Participants will join either the Blue Team or the Red Team and provide JSON submissions that demonstrate the largest uniform set of models (Blue) or greatest differentiation among those models (Red).
+---
 
-Hackathon Overview
-We have ~1300 vision models available for use, plus metadata about each model’s architecture, training data, and more. The hackathon aims to answer:
+Welcome to the Re-Align Workshop Hackathon! This challenge focuses on understanding and comparing representational alignment across a wide variety of vision models. Join either the 🟦 Blue Team or 🟥 Red Team and compete to discover whether representations are **universal** or **idiosyncratic**.
 
-When are models “functionally identical” (indistinguishable) in their behaviors?
-When do models show meaningful differences—and how can we highlight those differences with carefully chosen stimuli?
-Key points:
+<table>
+<tr>
+<td>
 
-## Team Objectives
+## 📚 Research Context
 
-### 🟦 Blue Team:
-Identify universal patterns across models by finding sets that function identically on selected stimuli.
+Representational alignment has emerged as both an implicit and explicit goal in many machine learning subfields, including knowledge distillation ([Hinton et al., 2015]()), disentanglement ([Montero et al., 2022]()), and concept-based models ([Koh et al., 2020]()).
+The concept has been explored under various terms including latent space alignment, conceptual alignment, and representational similarity analysis ([Kriegeskorte et al., 2008](); [Peterson et al., 2018](); [Roads & Love, 2020](); [Muttenthaler et al., 2023]()).
 
-- **Objective**: Submit a collection of models that demonstrate functional equivalence when processing the same stimulus set.
-- **Challenge**: Find surprising similarities among seemingly different architectures.
+Recent work has leveraged human perceptual judgments to enrich representations within vision models ([Sundaram et al., 2024]()), while other research explores using brain signals to fine-tune semantic representations in language models. However, there remains little consensus on which metrics best identify similarity between systems ([Harvey et al., 2024](); [Schaeffer et al., 2024]()).
 
-### 🟥 Red Team:
-Uncover meaningful functional differences between models by carefully selecting diagnostic stimuli.
+Representational alignment can help machines learn useful representations from humans with less supervision ([Fel et al., 2022](); [Muttenthaler et al., 2023](); [Sucholutsky & Griffiths, 2023]()), while also uncovering opportunities for humans to leverage domain-specific representations from machines when designing hybrid systems ([Steyvers et al., 2022](); [Shin et al., 2023](); [Schut et al., 2023]()).
 
-- **Objective**: Curate stimuli that reveal significant functional differences between model groups.
-- **Challenge**: Identify the most informative test cases that highlight meaningful variation.
+</td>
+</tr>
+</table>
 
-## Submission Requirements
-Your final submission must be in JSON format. The submission should document:
-1. Your methodology for identifying similar models (Blue) or selecting revealing stimuli (Red)
-2. A concise rationale explaining your findings
-3. Supporting evidence for your conclusions
+## 🏁 Quickstart
 
-For more detailed instructions, look below
+1. **Choose your team**: [🟦 Blue (universality)](#-blue-team) or [🟥 Red (idiosyncracy)](#-red-team).
+2. **Fork the repository** following our [setup instructions](#-getting-started).
+3. **Explore the example notebooks** in our [starter code section](#-getting-started).
+4. **Submit your findings** using our [submission process](#-submission-process).
 
-We look forward to discovering insights about representational alignment - whether through unexpected uniformity or revealing differences between models.
+Good luck! 🍀
 
+## 🎯 Challenge Overview
 
-## Submission Instructions
+We have **~1300 vision models** available, complete with metadata about architecture, training data, and more. This hackathon seeks to answer fundamental questions that have driven recent research in representational alignment ([Sucholutsky et al., 2023](); [Muttenthaler et al., 2024]()). Participants will join either a 🟦 Blue Team or a 🟥 Red Team, and provide JSON submissions that demonstrate the largest uniform set of models (Blue) or greatest differentiation among those models (Red).
 
-- **File Type**: JSON
-- **File Name**: `team_name.json` (replace "team_name" with your actual team name)
-- **File Location**: Place your submission in the `{blue/red}_team_submissions/` directory
+### 🟦 Blue Team
 
-### Blue Team JSON format
+_"Finding unexpected similarities."_
+Building on work showing that different networks can learn similar representations at scale, Blue Teams search for cases where this convergence occurs.
 
-```json
-{
-  "models": [
-    {
-      "model_name": "model1_name",
-      "source": "where the model is from",
-      "model_parameters": {
-        "param1": "value1",
-        "param2": "value2"
-      }
-    },
-    {
-      "model_name": "model2_name",
-      "source": "where the model is from",
-      "model_parameters": null
-    }
-  ]
-}
-```
+- **🎯 Objective**: Submit a collection of models demonstrating representational and/or functional equivalence.
+- **💡 Challenge**: Discover similarities among different architectures.
+- **🏅 Victory condition**: Largest uniform set of representationally and/or functionally identical models.
 
-### Red Team JSON format
+### 🟥 Red Team
 
-```json
-{
-  "differentiating_images": [
-    {
-      "dataset_name": "cifar100",
-      "image_identifier": "test/girl/image_987.png"
-    },
-    {
-      "dataset_name": "cifar100",
-      "image_identifier": "test/orange/image_19.png"
-    },
-    {
-      "dataset_name": "cifar100",
-      "image_identifier": "test/bottle/image_2428.png"
-    }
-    // … add as many entries as needed
-  ]
-}
-```
+_"Prompting idiosyncratic distinctions."_
+Following approaches that examine models presumed to be aligned to uncover representational differences, Red Teams develop stimuli that drive misalignment in model representations.
 
-**Field descriptions**
+- **🎯 Objective**: Curate stimuli that reveal representational and/or functional differences.
+- **💡 Challenge**: Identify the most informative test cases highlighting variation.
+- **🏅 Victory condition**: Greatest differentiation among model representations and/or behaviors.
 
-| Key | Purpose | Example |
-|-----|---------|---------|
-| `dataset_name` | Name of the public dataset the stimulus comes from. | `"cifar100"` |
-| `image_identifier` | Path or unique identifier that locates the file within your submission’s `stimuli/` directory. | `"test/girl/image_987.png"` |
+## 🚀 Getting Started
 
-Notes:
-- Include **exactly** these two keys for every stimulus object.  
-- Ensure every `(dataset_name, image_identifier)` pair is **unique**.
+### 1️⃣ Fork & Clone Repository
 
-### Setup & Submission (Applies to **Both Blue and Red Teams**)
+1. **Fork this repository**:
 
-#### 1&nbsp;—&nbsp;Fork and Clone
-1. **Fork** this repository on GitHub:
-    - Click the **Fork** button at the top of this page
-    - **Important:** Uncheck "Copy the main branch only" to include all branches
+    Click the **Fork** button near the top of the page to fork your own copy of representational-alignment/hackathon. You must be logged into GitHub.
 
-2. **Clone** your fork and create a branch for your submission (replace `<team_color>` with either `blue` or `red`):
-   ```bash
-   git clone [PATH_TO_YOUR_FORK]
-   cd realign-metrics
-   git checkout main  
-   git pull origin main  
-   git checkout -b <team_color>_team_submissions
-   git checkout -b <team_color>_team_winning_submission
-   ```
+    ⚠️ **Important**: Uncheck "Copy the main branch only" to include all branches, including branches used for submission!
 
-#### 2 — Prepare Your Submission
-| Team | Place the file(s) in | Required main file | Commit message title example |
-|------|----------------------|--------------------|------------------------------|
-| **Blue** | `blue_team_submissions/` | `team_name.json` | `Blue Team Submission: [team_name]` |
-| **Red** | `red_team_submissions/` | `team_name.json` | `Red Team Submission: [team_name]` |
+2. **Clone and setup**:
+    ```bash
+    git clone [YOUR_FORK_URL]
+    cd hackathon/
+    git checkout main
+    git checkout -b <team_color>_team_submissions  # blue or red
+    ```
 
-#### 3 — Commit & Push
-```bash
-git add [your files]
-git commit -m "<Blue or Red> Team Submission: [team_name]"
-git push --set-upstream origin {blue/red}_team_submissions
-```
+### 2️⃣ Environment Setup
 
-#### 4 — Open a Pull Request
-1. Go to your fork on GitHub.
-2. Click **"Compare & pull request."**
-3. Select the base branch to merge into: `<team_color>_team_submissions`
-4. Use the title:  
-   - `Blue Team: [team_name]` **or**  
-   - `Red Team: [team_name]`
-5. Submit — you’re done! 🎉
-
-
-## Getting Started
-
-### Clone the repo
-
-```
-git clone git@github.com:representational-alignment/hackathon.git
-cd hackathon/
-```
-
-### Setting a code environment
-
-#### Option: Using `uv` (**Recommended**)
-
-You can set up an environment for this project using [`uv`](https://docs.astral.sh/uv/).
-
-First, if you haven't already done so, download and install `uv`:
+#### Option A: Using `uv` (Recommended) ⚡
 
 ```bash
+# Install uv if you haven't already
 curl -LsSf https://astral.sh/uv/install.sh | sh
-```
 
-Then, update dependencies:
-
-```bash
+# Setup environment
 uv sync
-```
 
-You can then run the examples notebooks with
+# Activate environment for Python commands
+source .venv/bin/activate
 
-```bash
+# Example: Launch Jupyter Lab
 uv run --with jupyter jupyter lab
 ```
 
-If you'd like to run `python` commands, make sure to source the environment:
+#### Option B: Using Conda 🐍
 
 ```bash
-source .venv/bin/activate
-```
-
-#### Option: Using Conda
-
-You can set up a [Conda](https://anaconda.org/anaconda/conda) environment for this project using either the `pyproject.toml` file or the `requirements.txt` file.
-
-##### Using requirements.txt
-
-```bash
-# Create a new conda environment
+# Create environment
 conda create -n realign-metrics python>=3.12
 conda activate realign-metrics
 
-# Install requirements
+# Install dependencies
 pip install -r requirements.txt
 ```
 
-##### Using pyproject.toml
+### 3️⃣ Example Notebooks
 
-```bash
-# Create a new conda environment
-conda create -n realign-metrics python>=3.12
-conda activate realign-metrics
+We've provided starter notebooks to help you get started with the hackathon. These can be found in [`examples/`](examples/).
 
-# Install project in development mode
-pip install -e .
+| Notebook                       | Purpose                      | Teams     |
+| ------------------------------ | ---------------------------- | --------- |
+| 📊 `extract_activations.ipynb` | Extract model activations    | 🟦🟥 Both |
+| 🟦 `blue_team_starter.ipynb`   | Identify model similarities  | 🟦 Blue   |
+| 🟥 `red_team_starter.ipynb`    | Find differentiating stimuli | 🟥 Red    |
+
+### 4️⃣ Submission
+
+See below!
+
+## 📤 Submission Process
+
+### 📋 Submission Requirements
+
+Your final submission must be in **JSON format** and submitted as a pull request (PR), and should include a brief textual explanation of your findings.
+See examples of a [Blue Team](https://github.com/representational-alignment/hackathon/pull/2) and a [Red Team](https://github.com/representational-alignment/hackathon/pull/1) submission.
+
+#### 🟦 Blue Team JSON Format
+
+```json
+{
+    "models": [
+        {
+            "model_name": "model1_name",
+            "source": "where the model is from",
+            "model_parameters": {
+                "param1": "value1",
+                "param2": "value2"
+            }
+        },
+        {
+            "model_name": "model2_name",
+            "source": "where the model is from",
+            "model_parameters": null
+        }
+    ]
+}
 ```
 
-This will install all the necessary dependencies for you to run the code in this repository.
+#### 🟥 Red Team JSON Format
 
+```json
+{
+    "differentiating_images": [
+        {
+            "dataset_name": "cifar100",
+            "image_identifier": "test/girl/image_987.png"
+        },
+        {
+            "dataset_name": "cifar100",
+            "image_identifier": "test/orange/image_19.png"
+        },
+        {
+            "dataset_name": "cifar100",
+            "image_identifier": "test/bottle/image_2428.png"
+        }
+    ]
+}
+```
 
-## Example Notebooks and Starter Code
+##### 📝 Field Descriptions
 
-We've provided starter notebooks to help you get started with the hackathon. These can be found in the `examples/` folder:
+| Key                | Purpose                                  | Example                     |
+| ------------------ | ---------------------------------------- | --------------------------- |
+| `dataset_name`     | Name of the public dataset               | `"cifar100"`                |
+| `image_identifier` | Path/ID within your `stimuli/` directory | `"test/girl/image_987.png"` |
 
-### Common Resources
-- **`extract_activations.ipynb`**: Demonstrates how to extract model activations, which is useful for both Blue and Red teams.
+> **⚠️ Important**: Include exactly these two keys for every stimulus. Ensure every `(dataset_name, image_identifier)` pair is unique.
 
-### Team-Specific Starter Code
-- **Blue Team**: `blue_team_starter.ipynb` - Guides you through the process of identifying model similarities across different models.
-- **Red Team**: `red_team_starter.ipynb` - Helps you discover and analyze stimuli that reveal meaningful differences between model representations.
+### 📁 File Organization
 
-These notebooks contain code examples, visualization tools, and methodological suggestions to kickstart your approach to the challenge!
+| Team        | Directory                | Filename         | Commit Title                        |
+| ----------- | ------------------------ | ---------------- | ----------------------------------- |
+| 🟦 **Blue** | `blue_team_submissions/` | `team_name.json` | `Blue Team Submission: [team_name]` |
+| 🟥 **Red**  | `red_team_submissions/`  | `team_name.json` | `Red Team Submission: [team_name]`  |
+
+### 🔄 Submit Your Work
+
+```bash
+# Add your files
+git add [your_files]
+
+# Commit with proper message
+git commit -m "<Blue or Red> Team Submission: [team_name]"
+
+# Push to your fork
+git push --set-upstream origin <team_color>_team_submissions
+```
+
+### 🎯 Create Pull Request
+
+1. Go to your fork on GitHub
+2. Click **"Compare & pull request"**
+3. Set base branch: `<team_color>_team_submissions`
+4. Title: `Blue Team: [team_name]` or `Red Team: [team_name]`
+5. Submit! 🎉
