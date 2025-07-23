@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>The Re-Align Hackathon</title>
+        <style>
+            * {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+            }
+
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+                    Roboto, "Helvetica Neue", Arial, sans-serif;
+                background-color: #ffffff;
+                color: #333333;
+                line-height: 1.6;
+                min-height: 100vh;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                padding: 20px;
+            }
+
+            .container {
+                max-width: 600px;
+                text-align: center;
+                animation: fadeIn 0.8s ease-out;
+            }
+
+            .title {
+                font-size: 2.5rem;
+                font-weight: 300;
+                color: #2c3e50;
+                margin-bottom: 1rem;
+                letter-spacing: -0.02em;
+            }
+
+            .description {
+                font-size: 1.1rem;
+                color: #555;
+                margin-bottom: 2rem;
+                line-height: 1.7;
+            }
+
+            .launch-info {
+                background-color: #f8f9fa;
+                border: 1px solid #e9ecef;
+                border-radius: 8px;
+                padding: 2rem;
+                margin: 2rem 0;
+            }
+
+            .launch-date {
+                font-size: 1.3rem;
+                font-weight: 500;
+                color: #2c3e50;
+                margin-bottom: 0.5rem;
+            }
+
+            .btn {
+                display: inline-block;
+                padding: 12px 24px;
+                margin: 0 10px 10px 0;
+                text-decoration: none;
+                border-radius: 6px;
+                font-weight: 500;
+                transition: all 0.2s ease;
+                border: 1px solid;
+            }
+
+            .btn-primary {
+                background-color: #2c3e50;
+                color: white;
+                border-color: #2c3e50;
+            }
+
+            .btn-primary:hover {
+                background-color: #34495e;
+            }
+
+            .btn-secondary {
+                background-color: transparent;
+                color: #2c3e50;
+                border-color: #2c3e50;
+            }
+
+            .btn-secondary:hover {
+                background-color: #2c3e50;
+                color: white;
+            }
+
+            @keyframes fadeIn {
+                from {
+                    opacity: 0;
+                    transform: translateY(20px);
+                }
+                to {
+                    opacity: 1;
+                    transform: translateY(0);
+                }
+            }
+
+            @media (max-width: 768px) {
+                .title {
+                    font-size: 2rem;
+                }
+                .description {
+                    font-size: 1rem;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1 class="title">The Re-Align Hackathon - <i>Coming Soon</i></h1>
+
+            <p class="description">
+                Examine whether representations are
+                <strong>universal</strong> or <strong>idiosyncratic</strong>
+                across vision models in a competitive hackathon challenge.
+            </p>
+
+            <div class="launch-info">
+                <div class="launch-date">🚀 Launching at CCN 2025</div>
+                <p>Amsterdam • August 14th</p>
+            </div>
+
+            <div class="links">
+                <a
+                    href="https://2025.ccneuro.org/community-event-representational-alignment/"
+                    class="btn btn-primary"
+                >
+                    CCN Event Details
+                </a>
+                <a
+                    href="https://github.com/representational-alignment/hackathon"
+                    class="btn btn-secondary"
+                >
+                    GitHub Repository (<i>in development</i>)
+                </a>
+            </div>
+        </div>
+    </body>
+</html>
