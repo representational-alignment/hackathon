@@ -25,7 +25,7 @@
         <a href="https://github.com/representational-alignment/hackathon/releases/latest">
             <img src="https://img.shields.io/github/v/release/representational-alignment/hackathon?color=blueviolet&label=version">
         </a>
-        <a href="./LICENSE">
+        <a href="/LICENSE">
             <img src="https://img.shields.io/badge/licence-%C2%A9-crimson">
         </a>
     </h3>
