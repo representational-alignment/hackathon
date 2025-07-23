@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        <a href="https://representational-alignment.github.io/hackathon">The Re-Align Hackathon</a>
+        The Re-Align Hackathon
     </h1>
     <h4>
         <a href="#-challenge-overview">Challenge Overview</a>
@@ -25,7 +25,7 @@
         <a href="https://github.com/representational-alignment/hackathon/releases/latest">
             <img src="https://img.shields.io/github/v/release/representational-alignment/hackathon?color=blueviolet&label=version">
         </a>
-        <a href="#copyright">
+        <a href="./LICENSE">
             <img src="https://img.shields.io/badge/licence-%C2%A9-crimson">
         </a>
     </h3>
