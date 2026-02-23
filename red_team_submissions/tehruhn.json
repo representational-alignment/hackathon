@@ -1,0 +1,4004 @@
+{
+  "differentiating_images": [
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/air_freshener/ae7551386c98453.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/alarm_clock/2b695766d4ee40e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/backpack/14ea51d4c43b41d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/baking_sheet/fb5031529bbd444.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/banana/f3d66d2af2f44ad.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/band_aid/9ea4fb884a844d0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/baseball_bat/ef66ab31a26c436.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/baseball_glove/49904d4f46b74ee.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/basket/c845480e23834f0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bathrobe/2fdc69862f57468.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/battery/8f2298dc7329494.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bed_sheet/6390faab188241c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/beer_bottle/d157daa5a6844a1.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/beer_can/10ca106dae7a482.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/belt/ef9bf92c7b5742e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bench/b12b17b7606045d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bicycle/1f2f3150586e47f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bike_pump/86f9ad57328645b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bills_money/2cb3da7a913246b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/binder_closed/2e46473187f84c6.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/biscuits/187af35a5a1848c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/blanket/77cb1ccefb45468.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/blender/621de2ffa870465.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/blouse/02516712d903475.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/board_game/97d9c44c1a92471.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/book_closed/8bec7ec3a870425.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bookend/2a8ded5b08714f4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/boots/3c73e72c192145c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bottle_cap/4e098aa4ea2b4e4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bottle_opener/d4b78b2c54394f1.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bottle_stopper/dde15784843b403.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/box/bbece5ade4ec4c2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bracelet/2d62ce37d7784f0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bread_knife/c0920d43f0ae4d1.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bread_loaf/21e0db67b6274a9.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/briefcase/a7273cb3dd5c436.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/brooch/6f529d709e664cb.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/broom/358247f704a142d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bucket/4792377bbab243a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/butchers_knife/ac6be9429e034f2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/butter/00b33b8ca8e44fb.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/button/49dec0be37ca4a5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/calendar/c0cabeb981ae4aa.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/can_opener/790f08141231481.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/candle/acc5a93876254d6.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/canned_food/ac7cbfdfe37b4d9.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cd_case/5ee8ad98a4e3418.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cellphone/297191828c3c47f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cellphone_case/d5b88fd23ddf46b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cellphone_charger/8828a98fe66e497.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cereal/4ff0406c017a447.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/chair/a732d4237cce40c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cheese/c7584094369741e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/chess_piece/fbb4f1bd2beb490.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/chocolate/824e5398660843d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/chopstick/31925a0ea023470.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/clothes_hamper/1ef597776d274d8.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/clothes_hanger/91269a3ea1684d3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/coaster/b05b8dc7f4e4454.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/coffee_beans/dfe74a7758d4400.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/coffee_french_press/53855bbdb2d44a1.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/coffee_grinder/21adc9958c0d4e0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/coffee_machine/d39ec4cfdd3c4b3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/coffee_table/e197aad9db9a45d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/coin_money/ec1ec5ad608e404.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/comb/75a58b5f267d46d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/combination_lock/388703c81a154c3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/computer_mouse/0594627c4217457.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/contact_lens_case/1dfbb2c95c404ca.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cooking_oil_bottle/3e47f5142f654cb.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cork/10665260e61e4f2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cutting_board/bfc6fc48372344c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/deodorant/ab75e008f5d8482.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/desk_lamp/fdc220b564a1408.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/detergent/588c578c79de464.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dish_soap/de8c48d1fa14438.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/document_folder_closed/1b3a42ca1077408.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dog_bed/d8230a17582341c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/doormat/f172e0827e064fe.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/drawer_open/831c9848815149a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dress/6947931bacb345f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dress_pants/c4300b2bcca3437.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dress_shirt/0134270fc25d46c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dress_shoe_men/75f86ab3f237400.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dress_shoe_women/7300505d15134dc.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/drill/dfc386daad244dd.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/drinking_cup/4159068d79e94d4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/drinking_straw/038295efe236465.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/drying_rack_for_clothes/81ade5d25bc3403.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/drying_rack_for_dishes/735dcff5ec1341f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dust_pan/a9e867a523174d7.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dvd_player/d5b534fe972140b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/earbuds/077f1b109d044d3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/earring/b6b1f35d2dc34f9.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/egg/baeb192a7a31493.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/egg_carton/de467b0708ae422.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/envelope/34b4c711337e4c4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/eraser_white_board/c9f275e22e6a4d7.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/extension_cable/b3eec27336dc4b4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/eyeglasses/f3226f9e5b1a424.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/fan/873afe6fb02c422.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/figurine_or_statue/ef427706542f45d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/first_aid_kit/a297185ce86347f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/flashlight/c995913b017a496.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/floss_container/b5626a224493459.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/flour_container/f0e89bb434cd417.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/fork/b46e99b299f94f5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/frying_pan/e04da29594bd437.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/full_sized_towel/ff836815c894453.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/glue_container/c7beb0fe56a4461.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hair_brush/0b9724e6da5f473.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hair_dryer/106e2ec496a947e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hairclip/e662f2494453445.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hairtie/6ce5f1df99f14ac.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hammer/f0ddab20de0d40f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hand_mirror/1c0241250527495.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hand_towel_or_rag/b1a695c24ede4af.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/handbag/f94c15b756144bb.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hat/c3bb1cc752e04aa.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/headphones_over_ear/43adb45b0741404.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/helmet/b366d5f310ff45c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/honey_container/4078ae39aa0142a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ice/a7f6d89523e74ca.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ice_cube_tray/6c6292462232468.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/iron_for_clothes/370796478b594de.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ironing_board/05fdae4fbd21488.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/jam/3562ca8193b4485.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/jar/27b2e96b9748400.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/jeans/c4875253ceae412.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/kettle/294aca4a838a4cd.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/key_chain/680322fd28e44ff.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/keyboard/94c354d6992f484.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ladle/888cb4b65e5d44a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/lampshade/d0eb1cc3e3c74c3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/laptop_charger/dba9e63a72d9433.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/laptop_open/4f51b0f5f5aa4e1.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/leaf/37ee6ed7c22a421.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/leggings/81eee7e8941f417.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/lemon/607733a1ce4d4ef.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/letter_opener/0537211008e64e3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/lettuce/26a48609325f480.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/light_bulb/5d6beb892a7647d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/lighter/2be360a172fd4ae.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/lipstick/10aeb4404a3344f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/loofah/822f969c31fd47d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/magazine/c37fcd36bf89438.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/makeup/ab882fd43041455.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/makeup_brush/9c75a98efcc84b5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/marker/f2ce7a6afe7b4bf.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/match/04d21c2790824af.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/measuring_cup/ae3937663bda4f5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/microwave/dc3954776976463.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/milk/0e862b4d56254aa.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/mixing_salad_bowl/a7e71118d7274da.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/monitor/4723190f56fb4b7.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/mouse_pad/e2906702cb9f440.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/mouthwash/f2ee268ffde74da.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/mug/a359acb2d00b4ca.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/multitool/bc24d8ba9a56486.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/nail_clippers/694a1ad40e454a4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/nail_fastener/83cc9c790f0d49c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/nail_file/d8d33e2989c1442.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/nail_polish/7444591025e44df.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/napkin/a42ac26e480141c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/necklace/f6128c15d87b47a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/newspaper/0add3d99b3a945b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/night_light/470504246d944ad.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/nightstand/231de54e4d584e7.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/notebook/fa93d13a43f3464.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/notepad/c9470d5e0b5c4c7.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/nut_for_screw/dd734012920e47e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/orange/911a9814c141411.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/oven_mitts/5f17b2d9aa46408.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/padlock/b697ab0a6f4a41c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/paint_can/1abf1de917e94d2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/paintbrush/bb42b9b3e3a54a6.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/paper/e5bdecf78fac4f3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/paper_bag/37b85f0ab4704a4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/paper_plates/df3527d3de2e4bc.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/paper_towel/79a9669a093f401.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/paperclip/1498721a197a4ad.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/peeler/b574e17e9e1e4c5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pen/a364bbd6570849d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pencil/5c4220f66a414ff.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pepper_shaker/140d3c5aae604cb.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pet_food_container/eb298b3ff9aa47e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/phone_landline/ee1d68a3ad9d4c4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/photograph_printed/6008fed14ea14f4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pill_bottle/653eb739a404470.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pill_organizer/c2181d920e0646f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pillow/3948e99a36ed4fd.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pitcher/06f7a6dcbfa846e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/placemat/201983705fdc4b6.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/plastic_bag/0ff07d79dc6f44f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/plastic_cup/05f6d83c54bf438.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/plastic_wrap/d0afb84d6a7b454.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/plate/90a24523eeab44a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/playing_cards/1f1ae17949974e5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pliers/2272e9cc81df4a7.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/plunger/cc987933f724469.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pop_can/11e3f87490bc4b0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/portable_heater/cc2b4f5b505c450.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/poster/9ed2f70dd9c9451.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/power_bar/d078e81b21b4452.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/power_cable/3a47075eb60943e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/printer/f8be7d98fa734ab.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/raincoat/d0b57b50b0e74d1.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/rake/336b55eaecfa479.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/razor/07e59a6b4dd1478.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/receipt/e836d63180274a5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/remote_control/b4bc3ff1dea4492.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/removable_blade/09d23b1c982145f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ribbon/ebb23f22bd05452.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ring/40e77fb927ee4a3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/rock/87b79fea7b0e40b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/rolling_pin/17f76e8743dc4cc.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ruler/d1393e264c914dd.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/running_shoe/57cef3a94d07411.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/safety_pin/a217ad31061c4a5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/salt_shaker/cebdd714b7cd4d6.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sandal/5cf249dbae9f4b2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/scarf/1442bc9598ab4b5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/scissors/adf161aa5840489.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/screw/d746b28b177c446.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/scrub_brush/283e1d8ae1bf4f0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sewing_kit/704d57248601433.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/shampoo_bottle/a63ea269c248465.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/shoelace/68cae1db2b92482.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/shorts/3ad63c4f7082431.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/shovel/0f31107e3d5c4ee.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/skateboard/a32a7c5a7ea8494.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/skirt/12d74c0a957b433.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sleeping_bag/5a8f0f72010e4e2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/slipper/abc0205c0b29425.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/soap_bar/f86c011330d04af.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/soap_dispenser/011fee4c35954b2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sock/431bb42b51fe4ed.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/soup_bowl/5909c21e6c144ed.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/spatula/31b82c1745a7429.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/speaker/2256528ef1ae44d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sponge/f1d204e2f5e7472.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/spoon/baa0748ab81e400.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/spray_bottle/ee86a95793e94f5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/squeegee/b8ac5e1a2b7b45e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/squeeze_bottle/039e0acf2787465.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/standing_lamp/67d5f196154f4cc.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/stapler/f7bfe55279774df.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/step_stool/b96b6bd475a540a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/still_camera/7300c174e4d4435.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/stopper_sink_tub/c3d4a780a3f94f6.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/strainer/e8f1598a69e4423.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/stuffed_animal/483920e9b35c495.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sugar_container/f871d39ceba24b5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/suit_jacket/b665eba17508432.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/suitcase/0ed5a3ac8cf242a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sunglasses/a0508ede53dc4cf.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sweater/9ad08306ddf54da.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/swimming_trunks/5221327a0b6540c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/t-shirt/ffec7680037340a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/table_knife/d98057c73e114e3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tablecloth/cf1810f8ac3048a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tablet_ipad/a3b51dd58ded4e1.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tanktop/0e1ea77b22104d6.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tape/32457d9eac8c469.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tape_measure/2b492d289c6a46c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tarp/db63ba2695e742c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/teabag/a6bfce7fdcc943f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/teapot/bb2d0182497a4d5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tennis_racket/4daf5efe28b7403.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/thermometer/fafebf12f15b46e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/thermos/1d19eaecce17427.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/throw_pillow/06545791ae4943f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tie/9f98c261b6b440c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tissue/9fc35d5cbe04469.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/toaster/e1ae368fcf8841a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/toilet_paper_roll/a90469f35c96483.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tomato/552279205701472.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tongs/c11d2f2465164ae.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/toothbrush/41dc7653191b49c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/toothpaste/b92f99eaf10a49c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tote_bag/c167fba908eb4fa.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/toy/2fa210409b0642a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/trash_bag/74b442055e6f44c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/trash_bin/9af100ad9c78400.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/travel_case/dc6c86483ca14aa.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tray/0f6bc90c1fe240c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/trophy/77ba6375c5804c3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tv/1f4b6c4e298b41c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tweezers/5c5669b5dd1548e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/umbrella/bcd4d488400644b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/usb_cable/d5b09cf852d14f4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/usb_flash_drive/9536181d9da6489.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/vacuum_cleaner/ecaf5ebb0b05454.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/vase/7ce40d197d3c416.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/video_camera/904ff3b02f474f8.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/walker/96249071d02d422.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/walking_cane/ad19bd2cb1d6486.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/wallet/3d2242ab8b39400.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/watch/8146621f22734ff.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/water_bottle/d6733fa0f061482.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/water_filter/8f08c2e581bd438.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/webcam/216f381a272b45c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/weight_exercise/643fb0eec093465.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/weight_scale/41fad7a7054e434.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/wheel/d2fa0f27baff436.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/whisk/cbcfad5a58594f7.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/whistle/6d1cce9ed6ed49d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/wine_bottle/2aa43c940315425.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/wine_glass/0b8e1716d78d457.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/winter_glove/d0635f71fb47475.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/wok/003f63c3aa8c4d2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/wrench/4e2b3f4abdd1494.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ziploc_bag/4539a35733d1413.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/air_freshener/dc415b7c696c496.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/alarm_clock/4f5139fcb7be407.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/backpack/7fa0726e54684f9.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/baking_sheet/9bc356eee6774bb.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/banana/1c5a032c873d43d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/band_aid/a83416a0a702463.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/baseball_bat/2354cb11fb5f45a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/baseball_glove/90e775fb6035469.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/basket/681ab74eaa8a4ee.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bathrobe/4003c5f175f64b4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/battery/bb10440240a9465.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bed_sheet/21061498cbf149b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/beer_bottle/c8faa016370b4b0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/beer_can/7c6651d74014411.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/belt/bc2bc6616c6949a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bench/5ee2e7b9fc9c4a0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bicycle/8347dd7d2a4f494.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bike_pump/e16e61d17fb74f6.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bills_money/573442f894cf456.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/binder_closed/22c2e15777df4e4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/biscuits/f6a46f444e324d2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/blanket/2c0502ea34854d3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/blender/216988878b7b491.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/blouse/fe60d959a6d147c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/board_game/31874cd9e813436.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/book_closed/8b867a7bc54642e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bookend/799acf3f16934b4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/boots/87fcc6c0f94c44f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bottle_cap/abf4c9df19c4418.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bottle_opener/32b03cd1675b442.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bottle_stopper/58235b7d67bb4e0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/box/442a30a63412446.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bracelet/ea41ed621a66431.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bread_knife/9fcce17da57c467.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bread_loaf/d4a5de96499d466.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/briefcase/d6fc1ffe9aef483.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/brooch/036003b4dd554a4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/broom/50f4c9ab21464bb.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bucket/0b4656a7b8ac40f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/butchers_knife/51b1809729474ea.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/butter/1f3bb17df73b4f4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/button/1b8aec994f0b4fe.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/calendar/8b0333aef0d24ba.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/can_opener/efecc7823f194be.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/candle/c728bd64842d4c0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/canned_food/7166fe4e3fca4b3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cd_case/0a9fd2524ce04fe.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cellphone/9e05e932f1d34c0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cellphone_case/d6dfd3073178463.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cellphone_charger/2b817e72fdbe470.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cereal/8d305db89bfb44b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/chair/b5803098656346a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cheese/63731d69808e41e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/chess_piece/9dc9b0dd7cd64a9.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/chocolate/e2ea1198c80a434.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/chopstick/ed39c2074a4c4bf.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/clothes_hamper/2abdb4f15c064cb.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/clothes_hanger/b7ae61c164d14e9.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/coaster/9ab4176cae7146d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/coffee_beans/a31a0d8d7ec9435.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/coffee_french_press/e521c8263baa458.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/coffee_grinder/04a62f85b63943f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/coffee_machine/150bb43ae5ad479.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/coffee_table/c8988fdea3f5463.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/coin_money/9f0e500d7f80437.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/comb/2f9e68d870e948a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/combination_lock/264ae653bf7a447.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/computer_mouse/eced5e488ac346f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/contact_lens_case/c8e483721744410.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cooking_oil_bottle/56982e948fb740f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cork/0cd21b6d091d4f7.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cutting_board/10613d5045d4493.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/deodorant/3a1cc942574d419.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/desk_lamp/1131eea68cc3405.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/detergent/c80cab769c5c402.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dish_soap/afc63f7922da43b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/document_folder_closed/8c0ae139f53e4df.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dog_bed/50bc8cf5567e4c8.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/doormat/7ae1ac6cb445429.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/drawer_open/fbc3107179274b0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dress/98b9b14c61584d6.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dress_pants/d50498a06d69456.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dress_shirt/9a49b58c5b6640f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dress_shoe_men/5e2c28acc9b6430.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dress_shoe_women/b57a98fde49649f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/drill/eff23266bc2a479.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/drinking_cup/fc90bf3b115041f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/drinking_straw/295ea1737831429.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/drying_rack_for_clothes/0f2755e20cf0498.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/drying_rack_for_dishes/ae6c911ab3eb464.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dust_pan/7b06600a9afd4ec.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dvd_player/bc7a2914869a40a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/earbuds/6134fd4cf64b473.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/earring/5ace445c93e04a1.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/egg/87a2ef819936415.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/egg_carton/9dacfdc833a94d3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/envelope/aa8e0d55b339412.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/eraser_white_board/94b9b3bbdfd949e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/extension_cable/8da5b2e0cfed44b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/eyeglasses/c4ad7d2c4776429.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/fan/e3d5021bc1b44a4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/figurine_or_statue/b7088cacbcdc4bd.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/first_aid_kit/a2d021fa75324cb.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/flashlight/eef07c2a6f96470.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/floss_container/af4659e72993418.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/flour_container/f47d8fbe21d747d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/fork/39fc58ddca87491.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/frying_pan/a937a676d2394c3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/full_sized_towel/5d031d6929674e4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/glue_container/c319f3964e45428.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hair_brush/bfb1ec8c2776437.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hair_dryer/85e783cf8c6245f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hairclip/d1c9c99194d9495.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hairtie/b460a6c2be4644b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hammer/9af709823d2640e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hand_mirror/5aa87153b578450.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hand_towel_or_rag/081b36dc32fc4a8.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/handbag/39ced144278044b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hat/fb237d62d5d44a6.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/headphones_over_ear/e9a2813f5df44df.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/helmet/e3ece92478c14f5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/honey_container/62bf37a1bfc2431.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ice/ac5b823dc4ed45f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ice_cube_tray/da5f23fb6a89467.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/iron_for_clothes/aa18f42193b9415.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ironing_board/14e75c12cf044fd.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/jam/0973b64e572a42d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/jar/c2e7c3ee98f1411.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/jeans/41d109e3826446b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/kettle/2c80359d1cd9408.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/key_chain/13764989077041e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/keyboard/6f013274c36a4ac.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ladle/ae3b6fc6f8894bd.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/lampshade/24dec16086e7407.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/laptop_charger/e024770a73c3417.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/laptop_open/4b108aa251fc46c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/leaf/32397f109b4d496.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/leggings/b9a0139021444cf.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/lemon/29d09f504a824e8.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/letter_opener/5424dc5a3bbb4f7.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/lettuce/d00ed01c70e94f8.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/light_bulb/9faced3f1f7c469.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/lighter/7e210e20df4a48f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/lipstick/750d98a656f447f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/loofah/09a38098c69f46e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/magazine/060d389519f54c9.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/makeup/8b33409c6f9249e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/makeup_brush/350d139ce574498.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/marker/78ab28d13a2d43d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/match/b2da4042e788405.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/measuring_cup/0b61693a0020444.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/microwave/ec67fa3b052f461.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/milk/1db4ad1f3862417.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/mixing_salad_bowl/fcd52a1e2ab74af.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/monitor/c9b0a5e4a71c409.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/mouse_pad/2e22bf81eb4141f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/mouthwash/889edb4ccfac4f3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/mug/47e1de80a461414.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/multitool/865bbe260fc24d3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/nail_clippers/bc9729163ab84b5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/nail_fastener/2c07ecc3291c4df.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/nail_file/8e367475defb4cf.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/nail_polish/3ad1a72d1d26416.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/napkin/df6e9ca9dd6e4d9.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/necklace/2a95c08482d645d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/newspaper/6fdae560faaf409.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/night_light/a26db44aa7204b8.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/nightstand/aad648e00b754b0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/notebook/3e658cd1edfc462.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/notepad/e3bb126bbfdb454.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/nut_for_screw/1d6752cf67864fa.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/orange/7fe4385baba5458.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/oven_mitts/93050f05f538452.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/padlock/8969c07f13bb4c1.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/paint_can/3ff7f921b65445e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/paintbrush/8d5bdc0c0df44fc.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/paper/04486c29930d415.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/paper_bag/bb35e73c14f04b3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/paper_plates/82e23d47f7bc4cc.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/paper_towel/4429e1631ed34f9.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/paperclip/5bc96e44c8144d2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/peeler/8b42828ba7944ea.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pen/b2e0ffab82bd42c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pencil/3c039d2cebe94af.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pepper_shaker/cfcea91a44774c9.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pet_food_container/e7d4f48506d44f2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/phone_landline/14f3399e54a24b2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/photograph_printed/41c31a3cd8094c9.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pill_bottle/ce55318e581742c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pill_organizer/212c23bfdaee4b2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pillow/0cb6bdd1a7f84ae.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pitcher/fe1db3c871f6416.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/placemat/832f5473a58048a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/plastic_bag/0821275a24fc463.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/plastic_cup/4c830c6f8b27452.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/plastic_wrap/b0c316b17ff4421.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/plate/3d082c4c484240d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/playing_cards/db079ee1ce4a40f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pliers/063acdd60cc444e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/plunger/ab5ac02d423a4d1.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pop_can/54119ddf03f643b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/portable_heater/c905b19fbf0c45f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/poster/f32fab4ef39a485.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/power_bar/3a4c4ce73d79447.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/power_cable/56467a121f5c453.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/printer/a0bb42af245d4d2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/raincoat/b4b940afbf024d1.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/rake/a3c0bc43bd58434.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/razor/93d364a968b0485.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/receipt/e7eb1da7e89145f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/remote_control/ab918171b3f04dc.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/removable_blade/c09f535449ce433.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ribbon/4ad08703abe049a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ring/5d49ea22b649440.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/rock/ebca8e6ccd47499.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/rolling_pin/8e6a23f438a7496.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ruler/6ef24e1ea72840b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/running_shoe/3aecc4e1fde4456.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/safety_pin/71dcdb79c8da45c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/salt_shaker/21961fa1a0f9408.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sandal/ec596469eb3d4e4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/scarf/abf9f987105a495.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/scissors/f05305a1bc09405.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/screw/8120d1556b064ba.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/scrub_brush/c7cfd652f0524d9.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sewing_kit/82c3504f28d3461.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/shampoo_bottle/afc272c386c84ab.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/shoelace/3c90dbf6439245e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/shorts/22dd9a703f4b475.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/shovel/af1621f870b8405.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/skateboard/d7a117d10650437.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/skirt/a41fa95050df432.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sleeping_bag/ac073d7b3766421.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/slipper/1880f4f0664246a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/soap_bar/fd7c5a045a98449.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/soap_dispenser/2ea57240e4d7439.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sock/c732f24d99c5415.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/soup_bowl/c942180d560b42b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/spatula/e3966adab343425.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/speaker/14696cac19c0487.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sponge/1649a45e62e0490.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/spoon/4595c456bb9948e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/spray_bottle/a3a37d9a483f4ed.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/squeegee/d577e9551f3a429.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/squeeze_bottle/20035103c3464e5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/standing_lamp/2b810782c9794e8.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/stapler/2b7e781d5982400.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/step_stool/5ddc376392414a8.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/still_camera/bc7dd381ce26434.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/stopper_sink_tub/bf26a5facbd5493.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/strainer/f8647e0a95f4434.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/stuffed_animal/6c82c8de5de543b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sugar_container/1818b5e777fc4b3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/suit_jacket/19d49d66f9bf49e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/suitcase/a01c41698a334cb.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sunglasses/410c015205c54e8.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sweater/1c745d1675614e9.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/swimming_trunks/832b6a8d09b54a2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/t-shirt/2a2e8a1a402046f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/table_knife/ed9955687c0c4e0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tablecloth/8623424be246462.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tablet_ipad/92a6212f4265492.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tanktop/1e322a3932ab4dc.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tape/7c7240777472462.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tape_measure/5aaba7205c8f481.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tarp/5c5c88548e174e0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/teabag/3a31a5c5f8624a7.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/teapot/208d043055604af.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tennis_racket/0b8a1bcb0d2e470.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/thermometer/dea79676dc4340a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/thermos/bff7e51c82e0414.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/throw_pillow/cb44c0b11312486.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tie/8217929064f2469.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tissue/23fed106cce840f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/toaster/71220e6bea6344d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/toilet_paper_roll/2233a295f84f473.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tomato/a77db9273ec24d1.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tongs/8723ef55a2fb4e6.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/toothbrush/89fc1d8d66744b4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/toothpaste/707a83bf5f3840c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tote_bag/6bf588b11757408.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/toy/8dfa2a13caa4482.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/trash_bag/e1e6d694e55442f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/trash_bin/4f85f1031a054b4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/travel_case/f1e632dc87b344f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tray/7efb0439ffce492.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/trophy/ddef0c10d278457.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tv/607da7e533af4d5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tweezers/cf6f8fe4d986445.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/umbrella/f499b56b363b4f8.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/usb_cable/9a2415d0cd3f4fa.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/usb_flash_drive/f286afd5c218462.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/vacuum_cleaner/67d85d94b0c9492.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/vase/ec704c4a2a094ee.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/video_camera/0e896f4714a04d3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/walker/88788678475144c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/walking_cane/298b7ac599fb496.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/wallet/78b02b93f7c8438.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/watch/724be2b680e5416.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/water_bottle/cbfbe248b7df4ec.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/water_filter/de8dc11969404a6.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/webcam/56be18100a294db.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/weight_exercise/4ecf538f28bb41e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/weight_scale/7c8bc54eb5f7403.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/wheel/74f2d50f26b1419.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/whisk/1b97b8c25b50493.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/whistle/72f1f0f7fb5e46b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/wine_bottle/65cdd264a57d47a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/wine_glass/78f10472674d477.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/winter_glove/b945fc0134b44f6.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/wok/9346a841c821414.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/wrench/d99ff636b559439.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ziploc_bag/24269ce5b17d466.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/air_freshener/97654b601d8046c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/alarm_clock/deac6fcc44ac498.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/backpack/f2e133e243064d4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/baking_sheet/0893a28b501e4be.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/banana/315c18b49166498.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/band_aid/17b4e2cf6bb14d3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/baseball_bat/3556005b787c420.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/baseball_glove/ab394e8ff2f34ac.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/basket/5dadc96d579f4a2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bathrobe/0cb0fb0bfe9846e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/battery/26d9ce39f879434.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bed_sheet/88565cbfc71c421.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/beer_bottle/1b8956f178d6478.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/beer_can/263f5e02286d4f0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/belt/c65f718f86a7405.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bench/7ed21b526e3b493.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bicycle/d947fa33395346a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bike_pump/fbef905cfb3345d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bills_money/56919ff1220a4ee.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/binder_closed/c4fd6dc1a83c443.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/biscuits/59c4dfaca8a34a3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/blanket/816527d140da4ba.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/blender/598d3388275f47e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/blouse/9aa4167ef1a84cb.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/board_game/2026fd6e7929469.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/book_closed/e78c1f6f2bca40f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bookend/d8c655eda6a84e8.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/boots/cb876aed493e4c5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bottle_cap/aa6af5263cc646b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bottle_opener/cde8855021944ad.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bottle_stopper/68421145764843e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/box/165013927579455.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bracelet/ca2b95905a314a2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bread_knife/bae327e931af4dd.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bread_loaf/a0acc9dfdd6a4b5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/briefcase/3fbe3ab467ae423.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/brooch/560a54c4f6b7474.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/broom/37b2ef41be8044f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bucket/b3854abcee41415.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/butchers_knife/2735b133b58349a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/butter/6baea66a7f6f4a0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/button/2c7880c7794947e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/calendar/6c4808432ddb455.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/can_opener/e41a3ac2efcf4a0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/candle/4762c58394324bc.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/canned_food/21e96b0a3f41467.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cd_case/8fec3f42683f4aa.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cellphone/6040d59a654f466.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cellphone_case/d4149bc4557743d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cellphone_charger/5d8b31676b18401.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cereal/40791b6a90ce470.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/chair/2dcce7b9144c485.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cheese/13bc439db472429.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/chess_piece/90f3fdfacc8a4e7.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/chocolate/65460969b4d140e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/chopstick/fb8a3094949e4bd.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/clothes_hamper/43e733f598454a2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/clothes_hanger/2874a9e608d8408.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/coaster/fea401de4f804ea.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/coffee_beans/501f49ec87884b7.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/coffee_french_press/cca506faa8fc4e1.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/coffee_grinder/39af58109e584ae.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/coffee_machine/5fc1f75eba7f4f0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/coffee_table/8631ae0d335c45e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/coin_money/f91db27f69644c7.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/comb/e59f0ebb2c5f425.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/combination_lock/449d4eb0ce2c4c3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/computer_mouse/18afd6605a47493.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/contact_lens_case/0687884cb1fa4aa.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cooking_oil_bottle/746bf52a83ee47b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cork/16025c7b58e948c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cutting_board/88e163f0873e475.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/deodorant/2b2e05307b3546a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/desk_lamp/5812b51034044ab.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/detergent/fb50fd2956664ab.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dish_soap/596582e6dcc342e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/document_folder_closed/97202ca3170f45d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dog_bed/05111bb4674c423.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/doormat/eaaba636f05a461.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/drawer_open/1c6d6ff703b64c6.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dress/675a1daca14a46f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dress_pants/d7b19d0f01224d4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dress_shirt/5e9f0c036aac442.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dress_shoe_men/a49146163d0b47a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dress_shoe_women/37a8d156179d483.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/drill/fb96c5169aba429.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/drinking_cup/bd1dd1ecfa76423.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/drinking_straw/48d6c9512cc34ba.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/drying_rack_for_clothes/e2096f64b67e493.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/drying_rack_for_dishes/62896a912698442.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dust_pan/cc310e44f36541a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/dvd_player/b267e04adef345d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/earbuds/2cd9494c6cad476.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/earring/2aedd3ded460416.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/egg/6d7056554052411.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/egg_carton/bbf49eea9f2b43f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/envelope/79e524d8c558407.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/eraser_white_board/79e9211034024cc.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/extension_cable/831cee8a6aad4c7.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/eyeglasses/290700f69d1b4f4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/fan/a0837469927c41f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/figurine_or_statue/be4c4fd811ac486.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/first_aid_kit/ccb3c38a7f1447b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/flashlight/1a2509326e884d2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/floss_container/fbe5d8ec6b0f497.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/flour_container/a05a223d9a314e1.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/fork/5c7769b3f237451.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/frying_pan/364cc40eb6e6449.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/full_sized_towel/eabc735fa5d9428.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/glue_container/7193e0779a3e451.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hair_brush/f6c29dcb628c426.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hair_dryer/22e85789d708498.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hairclip/c7f1fe95bf434fc.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hairtie/2376444569274aa.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hammer/3cb413dacd14475.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hand_mirror/a9f55d1274c94d4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hand_towel_or_rag/6bcd5a5f0c24409.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/handbag/43e9e75f55d4498.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hat/4ce0e3be1a594b1.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/headphones_over_ear/1c71ec35a37146b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/helmet/3cdd8acedc0c469.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/honey_container/c80d9d4d8a7a4fa.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ice/b18deec86d0f415.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ice_cube_tray/a334ba073ec4419.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/iron_for_clothes/1dc9e3bb280842b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ironing_board/6236b11d795a46b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/jam/058c9207159245f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/jar/f1c7290a7fde45b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/jeans/601129eda56e4e4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/kettle/36d6db13e0e44e0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/key_chain/90fc6b2739bc426.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/keyboard/e0e0c64b43694d4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ladle/e3bd96aad0fd4ff.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/lampshade/95080124a96e450.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/laptop_charger/b3a994b4b1c24c8.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/laptop_open/47968b9ae1da4f9.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/leaf/f2fe960bfddb4a0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/leggings/4d582141d9c74d8.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/lemon/657b6a7196e7409.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/letter_opener/6b4845a11563407.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/lettuce/fabaf8a938c44fa.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/light_bulb/7e04c9d1b74b4a7.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/lighter/3c87b65d15784e5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/lipstick/0633e0bc257549a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/loofah/389be3e7d8384c0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/magazine/d4a3ad767208473.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/makeup/1baad1a292aa4cd.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/makeup_brush/d7d8f21aad744b2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/marker/b3b4db94fc0848b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/match/e209d4da7b8047d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/measuring_cup/21148e20498548b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/microwave/ad7592831a11426.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/milk/5b1be3ffba4a4af.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/mixing_salad_bowl/b00dcfa3e14142f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/monitor/40f9fd4f9166494.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/mouse_pad/41ca105ae5294ab.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/mouthwash/91236847879e44b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/mug/5e209a8bbe494d6.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/multitool/549e921c1a3b4f4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/nail_clippers/b120c32b6576490.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/nail_fastener/e65988a5267b46a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/nail_file/8b474977e325431.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/nail_polish/c96a7fb2ac55489.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/napkin/3adf2233475e4dd.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/necklace/91ec4afd9d6641c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/newspaper/cd845fe0b5c14ab.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/night_light/ef41d7e4d3ad4e4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/nightstand/05533d0929ef48e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/notebook/f9f834ae31154ec.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/notepad/41fbbbdc40764fd.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/nut_for_screw/f0f6f826d10047f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/orange/ddd055965860432.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/oven_mitts/55aa4eff65a84d8.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/padlock/06ab690f0172461.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/paint_can/10c4f30d19b74b5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/paintbrush/f2aaf668db5141f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/paper/c9bf915eab05440.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/paper_bag/a1c7060c7f9c427.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/paper_plates/ada1f6d03e6d468.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/paper_towel/ed9504bed0de406.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/paperclip/b0f0e2a154dc4a1.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/peeler/0a4ff0f978ab4e8.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pen/b18eb4df13e24d2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pencil/e62c4a9b2765459.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pepper_shaker/a2298f9789a645c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pet_food_container/043b47f2b080407.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/phone_landline/ac0caa880c2247a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/photograph_printed/26a5ea3a0f694c6.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pill_bottle/d85412642336419.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pill_organizer/11eb79e48d8b484.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pillow/16e16ffb18b048d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pitcher/e01f30f775c647f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/placemat/f5853d00e0f346c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/plastic_bag/e67bc28effb6468.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/plastic_cup/d8230dcc94a24d9.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/plastic_wrap/714e501f23074cf.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/plate/f0d7a9b43a824fd.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/playing_cards/321c930bdf124d2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pliers/9dbb7ad5f330425.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/plunger/23773866013f4e2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pop_can/bf7c4e678d50452.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/portable_heater/ce3a0af15a7d487.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/poster/4e7d0db51543421.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/power_bar/26043ee004d948e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/power_cable/a87e73e1e79341f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/printer/1b5b80c89f75448.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/raincoat/9067f9ada127466.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/rake/a25913eecfc2497.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/razor/c01af909f1b9482.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/receipt/ba9f6556acdf44f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/remote_control/ba884dcec2df410.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/removable_blade/25092f89581f448.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ribbon/fbd796ca3153452.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ring/7e987ceb02414d7.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/rock/758ea9f1a6b94b0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/rolling_pin/690d31c4fe074a9.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ruler/beaa1c2b2aad46f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/running_shoe/de5b8a61b6344d0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/safety_pin/179825b32b7a4b8.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/salt_shaker/f44b2cab031245b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sandal/a46c277a9144434.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/scarf/c8e32bfe6375485.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/scissors/4890341d8c954f8.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/screw/7e4359fcba864bf.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/scrub_brush/477d48e811e6489.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sewing_kit/ef6c21ecf31948e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/shampoo_bottle/7e19b8dec5b4441.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/shoelace/219b35bcf2c44d0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/shorts/c933c9dcffc24d8.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/shovel/ff3eb12aa97547b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/skateboard/1ea7c0623eab4fe.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/skirt/173459da94b44ee.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sleeping_bag/f9d65c8b0106444.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/slipper/00018c7fcdb24cb.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/soap_bar/1ad751951bfd499.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/soap_dispenser/fd84f5b9b6f54c6.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sock/d088f9d1d73a494.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/soup_bowl/3e6f24c8ddaf4b7.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/spatula/4a72857df9c64f4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/speaker/6858c7cec0c841b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sponge/8547e530f04e454.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/spoon/eb4121aded24420.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/spray_bottle/cc696a5012884ec.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/squeegee/dc4fcb5441c140f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/squeeze_bottle/af8c56a9c2024d4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/standing_lamp/91fa544f8edb426.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/stapler/68f25ecf3470450.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/step_stool/c90fda8c33924ee.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/still_camera/a815353f2f4b4df.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/stopper_sink_tub/04ab976505214df.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/strainer/52ffc2cfdd81413.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/stuffed_animal/efe1f999058d492.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sugar_container/d756b91f455143b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/suit_jacket/126689329d1044b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/suitcase/a65b3390b97e495.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sunglasses/d1bfa3e58ca64b6.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sweater/f969b14819e0431.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/swimming_trunks/1e7e7850748f442.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/t-shirt/6c67fd9703c043d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/table_knife/572fb0c3f18e486.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tablecloth/90d6031914a04ba.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tablet_ipad/43dc38ab139c4fb.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tanktop/f004925128ce4bc.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tape/726198ffbab84db.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tape_measure/e706f59a766a45e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tarp/bb470f9acacf465.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/teabag/e431a5ba7b8a4a3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/teapot/32216af23cc7461.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tennis_racket/ed13ee12364f4e5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/thermometer/3087d5777262413.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/thermos/a8df8d64af9545b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/throw_pillow/7d0592c9ff68422.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tie/fe86425bbbec467.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tissue/dd24bb5411f5486.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/toaster/5cb5887f0ca0461.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/toilet_paper_roll/b82a22d70d65400.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tomato/2b53ba7ddd594b5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tongs/b37e9e78cf94476.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/toothbrush/faeacd9383d544d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/toothpaste/66308bf9f7a3410.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tote_bag/8f66541cd5d942a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/toy/e8d47df83bdf42b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/trash_bag/819528af4072427.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/trash_bin/6dfecebf11d74ed.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/travel_case/c8727a7f4552414.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tray/24ac288658b9492.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/trophy/300b984a4fea4c0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tv/32951ff4985843e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tweezers/49b4daddea6942f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/umbrella/964f42109b264a4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/usb_cable/8004c5720ef64a2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/usb_flash_drive/4a429daa84214b1.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/vacuum_cleaner/ceb32c39a7704b7.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/vase/b2ac1ba6721e4ed.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/video_camera/48c22e8df17b454.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/walker/95936d9723a34ee.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/walking_cane/89b9cf6f9cba426.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/wallet/4153810e67bd42c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/watch/2843955827db46e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/water_bottle/a871156a1c1a4c9.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/water_filter/d77de8fbd4cf493.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/webcam/487521346d6247d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/weight_exercise/2f13b0fff28347c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/weight_scale/a90ba2152505406.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/wheel/7c3cdb7d2467474.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/whisk/870a35e4d37648a.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/whistle/1ce54076159d4d1.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/wine_bottle/9bc43c084efc468.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/wine_glass/f1cd79427be3489.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/winter_glove/19eab5549e294b5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/wok/f043aaeb700f438.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/wrench/a5f07e87c4864d6.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ziploc_bag/aba2ba05b7414a5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sweater/ea8b2509cf854da.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/thermometer/70012b8fd9fd4f8.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/basket/da862cb081d04c7.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/whisk/339a370f3d0141c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sugar_container/dd7a91530307483.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/belt/f3450b81ae6b45d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/winter_glove/e7dc94c09e2140d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/nail_clippers/9980caf00d164ad.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tablet_ipad/ca5e9d0692574a4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/measuring_cup/f558d0909bcf4a5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/jam/63356c80a70b4e5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sugar_container/9d8185cf4e8e417.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/plunger/57f0cc2d838e4ad.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/strainer/f9599d1f35d14bf.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/fork/f23bdb47b31945e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bench/24cdf26038f94ed.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/shorts/da787194e0ba4df.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/hand_mirror/0e436c07ea1f415.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ice_cube_tray/f4ce6c6db60c4c5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/combination_lock/54110959a7f046d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/earring/25a71ad93e5749e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/wallet/485f405312dd499.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tweezers/692f4ef25500436.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bottle_cap/ec6b74490d84444.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/stopper_sink_tub/0675dbeea7ed4fa.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/letter_opener/136dd1075f5446f.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/scissors/7705cced0010423.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/beer_can/7b206caace4c4e8.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/makeup_brush/246c5cb8506443d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/spray_bottle/ee102b4626b940e.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/laptop_charger/319775aa8aa74fd.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/pepper_shaker/77077cfc6da8447.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/toothbrush/649c356e9379464.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/running_shoe/83fcccb411f64bf.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sewing_kit/c67d221a31d64f1.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/spray_bottle/e96534bdba764c2.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/baking_sheet/c8d07e2988624e5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/bike_pump/5dfa6617e065454.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ladle/2d14c10caac5429.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/toy/00cc9e9ae1954d0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/brooch/9fdeb23a9bf64f8.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/drill/5611dd69415a43b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/board_game/7c86e6f45c3a4c0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/padlock/7d00bb45dbae4b5.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cork/2cd11831e26b4f3.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/earring/56142233679d4d4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/still_camera/044fd857d3694a9.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/power_cable/9cef386ea78b4a1.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/oven_mitts/9a266b5fcc2941d.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/lampshade/4babe4a3f409457.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/candle/f52efb412dc54af.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/tape/d2c175f97a5c4dd.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/ring/091ffafbb18d48c.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/baseball_glove/4c0ed124692b4b4.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/photograph_printed/67db3d961f4c4aa.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/cd_case/bd827597eacd455.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/water_bottle/a34cb9f64549458.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/scrub_brush/de98dc9a40c34d9.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/razor/8ac624d7ab2746b.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/butter/3c61435a1b5f4d0.png"
+    },
+    {
+      "dataset_name": "objectnet",
+      "image_identifier": "objectnet-1.0/images/sweater/42c4141ffa80458.png"
+    }
+  ]
+}
